@@ -7,4 +7,5 @@
 def happy_birthday(birthday_kids)
   birthday_kids.each do |name, index|
     puts "Happy birthday, #{name}, #{index} is old!"
+  end
 end
